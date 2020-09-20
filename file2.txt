@@ -1,1 +1,2 @@
 This is the first commit on feature 2 on Sep 4  
+This is the earlier first commit on feature 2 and second commit on feature 2 on Sep 5 
